@@ -1,44 +1,62 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f7/a7/9a/f7a79a5e840d5b78b54131dfaa788a8c.gif" alt="lofi-backend-web-gif" width="100%" style="border-radius: 10px;" />
+  <img 
+    src="https://i.pinimg.com/originals/f7/a7/9a/f7a79a5e840d5b78b54131dfaa788a8c.gif" 
+    alt="lofi-backend-web-gif" 
+    width="100%" 
+    style="max-width: 600px; border-radius: 10px;"
+  />
 
   <br/>
 
   # `Response: 200 OK` 🟢 I'm Nguyen Tien Hieu 
   
-  *Backend Web Developer • Kỹ sư đào mỏ (dữ liệu) • Trạm trung chuyển API* ☕
+  *Backend Developer • Data Miner • API Gateway*
 </div>
 
 ---
 
 ### 🗄️ `router.get('/about_me')`
 
-Tớ là một **Backend Web Developer**. Công việc yêu thích của tớ là đứng sau cánh gà, thiết kế những bộ RESTful API, xử lý Web Security và đảm bảo dữ liệu hiển thị lên Frontend nhanh nhất có thể. Không có UI hào nhoáng, nhưng logic thì phải mượt mà như một bản nhạc lo-fi đêm khuya. 🎧
+Tớ là một **Backend Developer** — đứng sau hệ thống, xây dựng API, xử lý bảo mật và tối ưu dữ liệu.
 
 ```json
 {
   "name": "Nguyen Tien Hieu",
-  "title": "Backend Web Developer",
-  "focus": ["RESTful APIs", "Web Security", "Database Architecture"],
+  "role": "Backend Developer",
+  "focus": ["APIs", "Security", "Database"]
 }
 ```
+
+---
 
 ### 🛠️ `dependencies.json`
 Những công nghệ tớ thường dùng để xây dựng Backend cho các ứng dụng Web:
 
-⚙️ **Web Frameworks & Runtimes:**
+<div align="center">
+⚙️ **Web Frameworks & Runtimes:** ⚙️
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-🗃️ **Databases & ORM/ODM:**
+</div>
+<div align="center">
+🗃️ **Databases & ORM/ODM:** 🗃️
+  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-☁️ **Web Servers & Tools:**
+</div>
+
+<div align="center">
+☁️ **Web Servers & Tools:** ☁️
+    
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
+    
+</div>
 
 ---
 
@@ -55,9 +73,9 @@ Những công nghệ tớ thường dùng để xây dựng Backend cho các ứ
 ---
 
 ### ☕ `payment_gateway.ts`
-Cậu có thể cân nhắc mời tớ một ly cà phê để tớ có sức maintain server nhé. Cảm ơn cậu rất nhiều! 🖤
+Nếu cậu thấy code của tớ hữu ích, hãy mời tớ một ly cà phê nhé! 🖤
 
-<div align="left">
+<div align="center">
 <a href="https://me.momo.vn/m8IDu1FgCmCXT1CAuGfO" target="_blank">
 <img src="https://img.shields.io/badge/Donate_with-MoMo-A50064?style=for-the-badge&logo=momo&logoColor=white" alt="Donate with MoMo" style="height: 50px !important; width: auto !important;" >
 </a>
@@ -78,6 +96,6 @@ Nếu cậu cần một người thiết kế Database, xây dựng hệ thống
 
 <div align="center">
 
-<i>"I don't care if it works on your machine! We are not shipping your machine!" 📦</i>
+<i>Response: 200 OK — and nobody noticed. Perfect.</i>
 
 </div>

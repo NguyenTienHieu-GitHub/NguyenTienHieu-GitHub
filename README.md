@@ -1,13 +1,12 @@
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/f7/a7/9a/f7a79a5e840d5b78b54131dfaa788a8c.gif" 
-    alt="lofi-backend-web-gif" 
-    width="100%" 
-    style="max-width: 600px; border-radius: 10px;"
+    src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
+    width="100%"
+    height="140"
+    style="max-width: 700px; object-fit: cover; border-radius: 12px;"
   />
-
-  <br/>
-
+</br>
+  
   # `Response: 200 OK` 🟢 I'm Nguyen Tien Hieu 
   
   *Backend Developer • Data Miner • API Gateway*
